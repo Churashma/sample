@@ -9,3 +9,6 @@ To check the sum of even numbers divisible by 3
 
 #program-4
 sum of numbers divisible by 3
+
+#program-5
+Micro and array update
