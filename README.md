@@ -12,3 +12,6 @@ sum of numbers divisible by 3
 
 #program-5
 Micro and array update
+
+#program-6
+Hamiltonian and lagrangian
