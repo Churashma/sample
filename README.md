@@ -44,6 +44,8 @@ SAMPLE OUTPUT
 3
 0
 
+
+
 #Program-6:
 Hamilitonian and lagrangian
 
@@ -67,6 +69,8 @@ SAMPLE INPUT
 16 17 4 3 5 2
 SAMPLE OUTPUT 
 17 5 2
+
+
 
 #program-7:
 Pink floyd and happiness
@@ -100,6 +104,8 @@ SAMPLE INPUT
 1 2 4 3 5
 SAMPLE OUTPUT 
 Happy
+
+
 
 #program-8:
 Frustrated coders
